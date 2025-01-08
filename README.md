@@ -1,4 +1,4 @@
-# 👨‍💻 Rushiraj Pathak 
+# 👨‍💻 Rushiraj N Pathak 
 
 **Data Analyst | Data Engineer | Consultant**
 
