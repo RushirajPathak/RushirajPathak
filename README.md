@@ -1,84 +1,59 @@
-# 👨‍💻 Rushiraj N Pathak 
+# Hi there, I'm Rushiraj (Krish) Pathak 👋
 
-**Data Analyst | Data Engineer | Consultant**
+Welcome to my GitHub profile! I'm a **Data Analyst** and **Data Engineer** based in Toronto, ON with a passion for turning complex data into meaningful insights (and maybe making it a little more fun along the way). With a background in **agile methodologies**, **big data technologies**, and a variety of programming languages, I’m here to solve your toughest data challenges (and throw in a bit of humor while I’m at it).
 
-🌍 **Location:** Markham, Ontario, Canada  
-📚 **Education:** Master's in Project Management (Birmingham City University), Current Data Science Student (Seneca Polytechnic)  
-📧 **Contact:** [LinkedIn Profile](https://www.linkedin.com/in/rushirajpathak)
+## 🚀 About Me
+With **3 years of experience** in data engineering and a **Master's in Project Management**, I’ve worked on everything from **automotive AI** to **roadway data analytics**. My day-to-day? Making data dance with the power of **Power BI**, **Tableau**, **Python**, **SQL**, and anything else that helps create user-centric solutions. 
 
----
+My passion for data doesn’t stop at work – I’m currently working towards my **Data Analysis program** at **Seneca Polytechnic** to level up my skills and keep pushing boundaries. 
 
-## 👋 About Me
+## 🎯 Skills
+- **Data Visualization**: Power BI, Tableau (I make dashboards so pretty, they might just make you cry)
+- **Programming**: Python, Java, HTML (Yes, I’m fluent in three languages... and they’re all code.)
+- **Frontend**: React, Redux, TypeScript, Next.js (I’m the wizard behind the screen)
+- **Databases**: SQL & NoSQL (Because one is never enough!)
+- **Other**: Code Debugging & Documentation (Making bugs disappear like magic)
+- **OS**: Linux, MAC, Windows (I can work anywhere, even on Mars... if they had WiFi)
 
-As a passionate Data Analyst and Consultant with a Master's in Project Management, I specialize in transforming complex data into actionable insights. My experience includes creating interactive dashboards, handling large datasets, and enhancing team performance through strategic analysis and advanced tools like Power BI and Tableau.
+## 👨‍💻 Experience
 
-💡 Highlights:
-- Expertise in **SQL**, **Microsoft SQL Server**, **Power BI**, and **Python for Machine Learning**.
-- Proven track record in data-driven decision-making and improving organizational processes.
-- Passionate about solving real-world problems through data and AI-driven solutions.
+### Data Analyst / Team Leader | Inrix Ltd. | Birmingham, UK
+*August 2021 – January 2024*  
+- I turned data into actionable insights through **Power BI** dashboards.
+- Helped solve road traffic problems (yes, I made the roads smarter).  
+- Managed a team of 12 (because someone had to keep everyone on track).  
+- Used **Sumo Logic** to hunt down data drops and raised **Zendesk tickets** like a pro.  
+- Worked under tight deadlines and handled clients' issues without breaking a sweat.
 
----
+### Computer Engineer | Atul Auto | Rajkot, Gujarat, India
+*October 2019 – January 2021*  
+- Designed and implemented **AI-driven solutions** to make vehicles smarter.  
+- Kept everything running smoothly by designing and maintaining databases (because data is the backbone of everything).  
+- Collaborated with cross-functional teams to deploy embedded systems (I call this “engineering magic”).  
 
-## 🛠 Skills
+## 🎓 Education
 
-- **Data Analysis & Visualization:** Power BI, Tableau  
-- **Database Management:** Microsoft SQL Server, PostgreSQL, T-SQL  
-- **Programming:** Python, SQL, R  
-- **Project Management:** Agile Methodology, Microsoft Project  
-- **Tools:** Sumo Logic, Zendesk, Moogsoft  
+**Master of Science in Project Management**  
+*Birmingham City University, UK* (2020 – 2021)  
+**Data Analysis**  
+*Seneca Polytechnic, Ontario, Canada* (2024 – Present)  
+**Bachelor of Computer Engineering**  
+*Gujarat Technological University, India* (2013 – 2018)
 
----
+## 🏆 Certifications
+- **Microsoft SQL Server 2022**  
+- **Data Analysis by Microsoft and LinkedIn**  
+- **Google Analytics (2022)**  
+- **SQL Server Machine Learning Services: Python**  
+- **GitHub Professional Certificate**
 
-## 📜 Certifications
+## 📈 Projects
+- **Customer Relationship Management (CRM)**: Developed strategies and implementation plans for major automobile brands like **Tata**, **Tesla**, and **BMW**.  
+- **Roadway Data Analytics**: Created real-time data dashboards to help traffic flow across the USA. (I’m basically the digital traffic cop).
 
-- [SQL Server Machine Learning Services: Python (LinkedIn)](https://www.linkedin.com/learning/certificates/7fe806ba10faf94f29d62ce782e5fa2f0695430dbabfc6ed4caa946cc57dc32b)  
-- [Microsoft SQL Server 2022 Essential Training (LinkedIn)](https://www.linkedin.com/learning/certificates/70c8261ca926b05005c6b46f033fec187d1b170d6ea41b239b20770c4c35afed)
+## 📫 How to reach me
+- 📧 Email: [pathakrushirajn@gmail.com](mailto:pathakrushirajn@gmail.com)
+- 📱 Phone: 437-439-2998
+- 🔗 LinkedIn: [krish-naynil-pathak](https://www.linkedin.com/in/krish-naynil-pathak)
 
----
-
-## 🏢 Professional Experience
-
-### **Data Analyst @ INRIX** (Aug 2022 – Jan 2024)  
-- Built interactive **Power BI dashboards** for performance tracking.  
-- Monitored data pipelines with **Sumo Logic** and managed incidents via **Zendesk**.  
-- Created quality reports and proposed data-driven process improvements.
-
-### **Data Editor @ INRIX** (Aug 2021 – Aug 2022)  
-- Streamlined real-time traffic data reporting for 200+ TV stations across the USA.  
-- Prioritized tasks effectively to meet tight deadlines.
-
-### **Computer Engineer @ Suzuki Car Care Centre** (Sep 2018 – Oct 2020)  
-- Designed and implemented automotive software and databases.  
-- Developed AI-driven solutions to optimize vehicle performance.
-
----
-
-## 📂 Projects
-
-### **Customer Relationship Management (CRM) in Various Industries**  
-- A comprehensive analysis project, focusing on improving customer retention and engagement.
-
-### **Spy Robot**  
-- Designed an autonomous robot for reconnaissance missions in high-risk territories, capable of gathering vital information discreetly.
-
----
-
-## 🌱 Education
-
-- **Seneca Polytechnic** (2024 – 2026): Diploma in Data Science  
-- **Birmingham City University** (2020 – 2021): Master's in Project Management  
-
----
-
-## 🌍 Languages
-
-- **English:** Full Professional Proficiency  
-- **Gujarati:** Native Proficiency  
-- **Hindi:** Professional Working Proficiency  
-
----
-
-## 📫 Let's Connect
-
-I’m always open to discussing data-driven projects, AI innovations, and collaboration opportunities.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rushirajpathak) or explore my repositories here on GitHub!
+Feel free to explore my repositories, and let's connect if you need help with anything data-related! 😊
