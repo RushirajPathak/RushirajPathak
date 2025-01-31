@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **Data Analyst** and **Data Engineer** based in Toronto, ON with a passion for turning complex data into meaningful insights (and maybe making it a little more fun along the way). With a background in **agile methodologies**, **big data technologies**, and a variety of programming languages, I’m here to solve your toughest data challenges (and throw in a bit of humor while I’m at it).
 
 ## 🚀 About Me
-With **3 years of experience** in data engineering and a **Master's in Project Management**, I’ve worked on everything from **automotive AI** to **roadway data analytics**. My day-to-day? Making data dance with the power of **Power BI**, **Tableau**, **Python**, **SQL**, and anything else that helps create user-centric solutions. 
+With **3+ years of experience** in data engineering and a **Master's in Project Management**, I’ve worked on everything from **automotive AI** to **roadway data analytics**. My day-to-day? Making data dance with the power of **Power BI**, **Tableau**, **Python**, **SQL**, and anything else that helps create user-centric solutions. 
 
 My passion for data doesn’t stop at work – I’m currently working towards my **Data Analysis program** at **Seneca Polytechnic** to level up my skills and keep pushing boundaries. 
 
