@@ -1,4 +1,4 @@
-# Hi there, I'm Rushiraj (Krish) Pathak 👋
+# Hi there, I'm Rushiraj (Krish) Pathak 👋 
 
 Welcome to my GitHub profile! I'm a **Data Analyst** and **Data Engineer** based in Toronto, ON with a passion for turning complex data into meaningful insights (and maybe making it a little more fun along the way). With a background in **agile methodologies**, **big data technologies**, and a variety of programming languages, I’m here to solve your toughest data challenges (and throw in a bit of humor while I’m at it).
 
