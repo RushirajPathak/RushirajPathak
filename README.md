@@ -41,11 +41,11 @@ My passion for data doesn’t stop at work – I’m currently working towards m
 *Gujarat Technological University, India* (2013 – 2018)
 
 ## 🏆 Certifications
-- **Microsoft SQL Server 2022**  
-- **Data Analysis by Microsoft and LinkedIn**  
-- **Google Analytics (2022)**  
-- **SQL Server Machine Learning Services: Python**  
-- **GitHub Professional Certificate**
+- [**Microsoft SQL Server 2022**](https://www.linkedin.com/learning/certificates/b0cb31f58f82a9d3bfaf553f5daf3080a65beb70c854ecb984f3f8521cc6d9e6?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BF1HnW4XdQxe968iTre8yww%3D%3D)  
+- [**Data Analysis by Microsoft**](https://www.linkedin.com/learning/certificates/2fcd086ac34b514ce68cf414df00530f8f9329c042e4f65d7daf38120052dfe1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bf1NOqgoSQ4%2Bzpt0iONMivw%3D%3D) 
+- [**Querying Microsoft SQL Server 2022**](https://www.linkedin.com/learning/certificates/b0cb31f58f82a9d3bfaf553f5daf3080a65beb70c854ecb984f3f8521cc6d9e6?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BF1HnW4XdQxe968iTre8yww%3D%3D)  
+- [**SQL Server Machine Learning Services: Python**](https://www.linkedin.com/learning/certificates/7fe806ba10faf94f29d62ce782e5fa2f0695430dbabfc6ed4caa946cc57dc32b?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BF1HnW4XdQxe968iTre8yww%3D%3D)  
+- [**GitHub Professional Certificate**](https://www.linkedin.com/learning/certificates/604001e0a925ac6682091eea6202a3705b485fe11ff55e67b51b96c9bf35835f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bf1NOqgoSQ4%2Bzpt0iONMivw%3D%3D)
 
 ## 📈 Projects
 - **Customer Relationship Management (CRM)**: Developed strategies and implementation plans for major automobile brands like **Tata**, **Tesla**, and **BMW**.  
