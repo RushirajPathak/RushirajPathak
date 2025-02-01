@@ -53,7 +53,6 @@ My passion for data doesn’t stop at work – I’m currently working towards m
 
 ## 📫 How to reach me
 - 📧 Email: [pathakrushirajn@gmail.com](mailto:pathakrushirajn@gmail.com)
-- 📱 Phone: 437-439-2998
 - 🔗 LinkedIn: [krish-naynil-pathak](https://www.linkedin.com/in/krish-naynil-pathak)
 
 Feel free to explore my repositories, and let's connect if you need help with anything data-related! 😊
